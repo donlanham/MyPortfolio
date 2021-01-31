@@ -61,10 +61,11 @@ a:link    { color: steelblue;  }
 a:visited { color: pink;   }
 a:hover   { color: slateblue; }
 a:active  { color: rgb(64, 193, 216);  }
-/* making the photo look more clean on the page */
+/* sizing the photo */
 img {
   padding-top: 2em;
-  height: 400px
+  height: 34em;
+  width: auto;
 }
 /* class to center my image */
 .center {
