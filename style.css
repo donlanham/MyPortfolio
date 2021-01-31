@@ -7,7 +7,7 @@ body {
   margin: 0;
   background-color: rgb(18, 18, 73);
 }
-
+/* special fonts for my header */
 h1 {
   font-family: Lucida Console;
   color: #a774f8;
@@ -21,52 +21,52 @@ h3 {
   font-size: 18px;
   text-align: center;
 }
-
+/* an alternate background and sizing for my header*/
 h1, h3 {
   background-color: rgb(61, 57, 57);
   margin: 0%;
   padding: 12px 12px 12px 12px
 }
-
+/* text rules for most of the site text */
 h2, p, ul, ol {
   font-family: Arial, Helvetica, sans-serif;
   color: white;
   text-align: center;
 }
-
+/* puts everything in a center column */
 .wrapper {
   width: 400px;
   margin: auto;
   text-align: center;
 }
-
+/* text rules for the very bottom of the page */
 nav {
   background-color: rgb(61, 57, 57); 
   font-size: 50%;
   margin: 0%;
   padding: 2px 0 2px 0;
 }
-
+/* formatting for an Ordered List */
 ol {
   padding-left: 45%;
   text-align: inherit;
 }
-
+/* formatting for an Unordered List */
 ul {
   padding-left: 40%;
   text-align: inherit
 }
-
+/* customized colors for links */
 a:link    { color: steelblue;  }
 a:visited { color: pink;   }
 a:hover   { color: slateblue; }
 a:active  { color: rgb(64, 193, 216);  }
-
+/* making the photo look more clean on the page */
 img {
   padding-top: 2em;
   height: 400px
 }
-
+/* class to center my image */
 .center {
   display: block;
   margin-left: auto;
