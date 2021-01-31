@@ -65,7 +65,7 @@ a:active  { color: rgb(64, 193, 216);  }
 img {
   padding-top: 2em;
   height: 34em;
-  width: auto;
+  width: 28em;
 }
 /* class to center my image */
 .center {
